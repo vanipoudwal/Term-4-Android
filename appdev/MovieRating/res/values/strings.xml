@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieRating</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Year</string>
+    <string name="text2">Duration</string>
+    <string name="text3">Movie Name</string>
+    <string name="text4">Starring</string>
+    <string name="text5">Write Review Here</string>
+    <string name="text6">Director</string>
+    <string name="b1">Save</string>
+    <string name="Finish">Finish</string>
+    <string name="dd">Add Directors Name:</string>
+    <string name="name">Name:</string>
+    <string name="genre">Genre:</string>
+    <string name="year1">Year:</string>
+    <string name="dur">Duration:</string>
+    <string name="star">Starcast:</string>
+    <string name="director">Director:</string>
+    <string name="review">Review:</string>
+    <string name="t1">TextView</string>
+    <string name="t2">TextView</string>
+    <string name="t3">TextView</string>
+    <string name="t4">TextView</string>
+    <string name="t5">TextView</string>
+    <string name="t6">TextView</string>
+    <string name="t7">TextView</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SetResultActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="btnResult">click</string>
+    <string name="btnOk">btnOk</string>
+    <string name="editText1">etText</string>
+    <string name="textView1">tvShow</string>
+
+</resources>
