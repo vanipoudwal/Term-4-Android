@@ -1,2 +1,2 @@
 # Term-4-Android
-This repository is used to write ANDROID Code.
+This Repository Is Used To Write Android (Using AVD + Emulator) Code.
